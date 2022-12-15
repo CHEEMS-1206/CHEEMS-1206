@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![MasterHead](https://unsplash.com/photos/oqStl2L5oxI)](https://cheems-1206.io)
+<!-- [![MasterHead](https://unsplash.com/photos/oqStl2L5oxI)](https://cheems-1206.io) -->
 
 <h1 align="center">Hey, I'm Priyanshu Singh</h1>
 <h3 align="center">Full stack Web developer residing in India.</h3>
@@ -12,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Front end Web apps**
 
-- 👨‍💻 All of my projects are available at [http://priyanshusingh.epizy.com/Portfolio/](http://priyanshusingh.epizy.com/Portfolio/)
+- 👨‍💻 Do visit my [Portfolio/](http://priyanshusingh.epizy.com/Portfolio/)
 
 - 📫 How to reach me **priyanshusingh9291@gmail.com**
 
