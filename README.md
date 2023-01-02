@@ -1,18 +1,18 @@
 <!-- [![MasterHead](https://unsplash.com/photos/oqStl2L5oxI)](https://cheems-1206.io) -->
 
 <h1 align="center">Hey, I'm Priyanshu Singh</h1>
-<h3 align="center">Full stack Web developer residing in India.</h3>
-<img align="right" alt= "coding" width="400" src= "https://dribbble.com/shots/6169542-Developer-Animation">
+<h3 align="center">Passionate Full stack Web developer residing in India.</h3>
+<!-- <img align="right" alt= "coding" width="400" src= "https://dribbble.com/shots/6169542-Developer-Animation"> -->
 
-- 🔭 I’m currently working on **Front end projects**
+- 🔭 I’m currently working on **MERN Stack Projects*
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently learning **DSA in C++ and ML using Python**
 
-- 👯 I’m looking to collaborate on **Front end Web apps**
+- 👯 I’m looking to collaborate on **Front end Apps, Python Projects and MERN Projects**
 
 - 👨‍💻 Do visit my [Portfolio/](http://priyanshusingh.epizy.com/Portfolio/)
 
-- 📫 How to reach me **priyanshusingh9291@gmail.com**
+- 📫 Feel free to reach me at **priyanshusingh9291@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
