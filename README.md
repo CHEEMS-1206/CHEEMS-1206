@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA in C++ and ML using Python**
 
-- 👯 I’m looking to collaborate on **Front end Apps, Python Projects and MERN Projects**
+- 🫠 I’m looking to collaborate on **Front end Apps, Python Projects and MERN Projects**
 
 - 👨‍💻 Do visit my [Portfolio/](http://priyanshusingh.epizy.com/Portfolio/)
 
