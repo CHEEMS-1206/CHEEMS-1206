@@ -10,7 +10,7 @@
 
 - 🫠 Practicing *MERN* stack by creating *Full stack* web application and API's.
 
-- 👨‍💻 Wanna know more about me?, Do visit my [Portfolio/](https://portfolio-priyanshu-singh.netlify.app/))
+- 👨‍💻 Wanna know more about me? , Do visit my [Portfolio/](https://portfolio-priyanshu-singh.netlify.app/)
 
 - 📫 Feel free to Email me @ *priyanshusingh9291@gmail.com*
 
